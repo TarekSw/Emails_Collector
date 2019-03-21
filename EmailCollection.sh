@@ -1,7 +1,9 @@
 #!/bin/bash
 
 path=$(pwd)
+#double check if the devemail file is deleted
 
+rm -rf DeveloperEmails.txt
 #git clone project_URL
 #git log > ../logs.txt
 
@@ -38,8 +40,27 @@ git log > ${arr[3]}_log.txt
 #in the main file not inside the previous cloned file.
 
 #remove file recursively just need txt file
-rm -rf $FolderName
+
+#rm -rf $FolderName
 
 cd $path
+
+while read line
+do
+	if [[ "${line}" = "Author: "*  ]]; then
+		#for not re-printing the same email
+		if [[ $(grep "${line}"  "DeveloperEmails.txt" ) ]]; then
+			echo " Already Saved... "
+		else
+			echo ${line} >>DeveloperEmails.txt
+			echo " Saving..."
+		fi
+	fi
+
+done <${arr[3]}_log.txt
+
+#remove file log and keep emails file
+
+#rm -rf ${arr[3]}_log.txt
 
 done <Links.txt
