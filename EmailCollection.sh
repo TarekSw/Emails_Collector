@@ -38,7 +38,7 @@ git log > ${arr[3]}_log.txt
 #in the main file not inside the previous cloned file.
 
 #remove file recursively just need txt file
-#rm -rf $FolderName
+rm -rf $FolderName
 
 cd $path
 
