@@ -7,11 +7,11 @@ rm -rf DeveloperEmails.txt
 #git clone project_URL
 #git log > ../logs.txt
 
-while read links
+while read gitlinks
 do
-echo""
-echo "Start Cloning Porjects... $links"
-git clone $links
+#echo ""
+echo "Start Cloning Porjects... ${gitlinks}"
+git clone ${gitlinks}
 
 #when you clone a project a folder of that project name is created
 #so we have to get the last part of the URL
@@ -21,15 +21,16 @@ git clone $links
 #example: take the third part
 #     0.      1.         2.        3.
 #https://github.com/nathanmarz/storm
-arr=(`echo $links | tr '/' ' ' `)
+arr=(`echo ${gitlinks}| tr '/' `)
 #arr[3] get the project folder name
 
 #complete path
-FolderName="${path}/ ${arr[3]}"
+appPath="${path}/${arr[3]}"
 
-echo "Folder Name is : ${FolderName}"
+echo "App path ${appPath}"
 
-cd $FolderName
+#//////////////////////////////////////////
+cd ${appPath}
 
 #take a step back from the main project folder
 #${arr[3]} in order the save in the same name
@@ -41,26 +42,27 @@ git log > ${arr[3]}_log.txt
 
 #remove file recursively just need txt file
 
-#rm -rf $FolderName
+rm -rf ${appPath}
 
+#/////////////////////////////////////////
 cd $path
+#/
+#while read line
+#do
+#    if [[ "${line}" = "Author: "*  ]]; then
+#for not re-printing the same email
+#        if [[ $(grep "${line}"  "DeveloperEmails.txt" ) ]]; then
+#            echo " Already Saved... "
+#        else
+#            echo ${line} >>DeveloperEmails.txt
+#            echo " Saving..."
+#        fi
+#    fi
 
-while read line
-do
-	if [[ "${line}" = "Author: "*  ]]; then
-		#for not re-printing the same email
-		if [[ $(grep "${line}"  "DeveloperEmails.txt" ) ]]; then
-			echo " Already Saved... "
-		else
-			echo ${line} >>DeveloperEmails.txt
-			echo " Saving..."
-		fi
-	fi
-
-done <${arr[3]}_log.txt
+#done < ${arr[3]}_log.txt
 
 #remove file log and keep emails file
 
 #rm -rf ${arr[3]}_log.txt
 
-done <Links.txt
+done < Links.txt
