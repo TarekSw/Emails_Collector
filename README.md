@@ -5,7 +5,7 @@
 #### Provide the Links.txt file with the repository links.
 Please leave an extra empty line after the last link
 
-![Links File](img/links.png)
+![Links File](img/links.png =100x100)
 
 #### Or add you own .txt file with correct links in the .sh File, in the specified line
 
