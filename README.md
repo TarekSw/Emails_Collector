@@ -1,4 +1,10 @@
-# GitHub-Shell
+# Shell Script
 
-## Email repo Collector
 
+In Order to run the script
+
+```bash
+./EmailCollection.sh
+```
+
+![Links File](img/links.png)
