@@ -1,0 +1,169 @@
+Author: John Ferguson Smart <john.smart@wakaleo.com>
+Author: Gerald Scott <osullivan.gerald@gmail.com>
+Author: Gerald Scott <geraldo@ci00.taung.co.za>
+Author: luukhang <khang.luu@hotmail.com>
+Author: David Schott <schottdb@gmail.com>
+Author: John Smart <john.smart@wakaleo.com>
+Author: jenkins <jenkins@wakaleo.com>
+Author: virendray <virendray@gmail.com>
+Author: jenkins <john.smart@wakaleo.com>
+Author: Jenkins <jenkins@wakaleo.com>
+Author: Dan Hagon <axiomsofchoice@gmail.com>
+Author: wakaleo <john.smart@wakaleo.com>
+Author: Henrik Olsson <saviours-kid97@hotmail.se>
+Author: Jszymanski <jan.kazimierz.szymanski@gmail.com>
+Author: Jordan Jefferson <jjeffe10@gmail.com>
+Author: Jaseem <jaseem.m@sap.com>
+Author: veyndan <veyndan@gmail.com>
+Author: Veyndan Stuart <veyndan@gmail.com>
+Author: Jan Szymanski <jan.kazimierz.szymanski@gmail.com>
+Author: Henrik <henrikolsson@outlook.com>
+Author: Lawrence Wang <lawrencewqy@gmail.com>
+Author: ramola <sramola5@gmail.com>
+Author: veyndan <veyndan89@gmail.com>
+Author: Hunk Deng <niknow@live.com>
+Author: Hunk Deng <niknow@live.cn>
+Author: Meisolsson <henrikolsson@outlook.com>
+Author: Lars Grefer <github@larsgrefer.de>
+Author: StefMa <StefMaDev@outlook.com>
+Author: Lilie <llweifall@gmail.com>
+Author: Zac Sweers <pandanomic@gmail.com>
+Author: aandis <abhishekrm@iitrpr.ac.in>
+Author: Jakub Spatny <jakub.spatny@firma.seznam.cz>
+Author: spatnjak <spatnjak@fel.cvut.cz>
+Author: mushuichuan <qqliys@126.com>
+Author: Fadil Sutomo <fadils@users.noreply.github.com>
+Author: Fadil Sutomo <fsutomo@gmail.com>
+Author: Meisolsson <=>
+Author: Kat Hagan <kat@codebykat.com>
+Author: Joao Sousa <jcruzsou@gmail.com>
+Author: meisolsson <saviours-kid@hotmail.se>
+Author: Matt Babineau <mbabineau@dataxu.com>
+Author: Henri (Zac) Sweers <pandanomic@gmail.com>
+Author: Henri Sweers <pandanomic@gmail.com>
+Author: Joel <joelchen@msn.com>
+Author: Karl Lindmark <karl.lindmark@ninetwozero.com>
+Author: fadils <fsutomo@gmail.com>
+Author: <>
+Author: Sigee <sigee15@gmail.com>
+Author: Ben Wu <wubin28@gmail.com>
+Author: Daniel <danijose24@gmail.com>
+Author: Semih Yağcıoğlu <semihyagcioglu@yahoo.com>
+Author: Yuliya-Kaleda <yulia.koleda1988@gmail.com>
+Author: markzhai <zhaiyifan56@gmail.com>
+Author: Lars Grefer <larsgrefer@freenet.de>
+Author: Ha Duy Trung <haduytrung@gmail.com>
+Author: Morton Fox <github@qslw.com>
+Author: Munoz Adam <adam.munoz.lopez@gmail.com>
+Author: StefMa <StefMaDev@Outlook.com>
+Author: Gustavo Bitencourt <gustavobite@gmail.com>
+Author: Henri Sweers <hsweers@Henris-MacBook-Pro.local>
+Author: Quentin S <chteuchteu@gmail.com>
+Author: XhmikosR <xhmikosr@gmail.com>
+Author: Holger Jeromin <mailgithub@katur.de>
+Author: Jon Ander Peñalba <jonan88@gmail.com>
+Author: Niklas Resch <ro0kie4@ymail.com>
+Author: Kevin Sawicki <kevinsawicki@gmail.com>
+Author: Seaborn Lee <seabornlee.cn@gmail.com>
+Author: Daniel <danvali657@gmail.com>
+Author: nordberg <marcusnordberg@live.se>
+Author: Geetesh Kalakoti <kalakotig@gmail.com>
+Author: Brian Melton <iambmelton@gmail.com>
+Author: crazymaster <ken.i54k@gmail.com>
+Author: Mustafa Ali <mustafa.ali@mutualmobile.com>
+Author: TheMolkaPL <themolkapl@gmail.com>
+Author: tiago-fonseca-da-silva <tiago_trovaoazul@hotmail.com>
+Author: Daniel Jonsson <damajo90@gmail.com>
+Author: Xyaren <tobi.guenther@web.de>
+Author: minsOne <cancoffee7+github@gmail.com>
+Author: Adrian Matejov <a.matejov@centrum.sk>
+Author: Konstantinos Koukouvis <koskouk87@gmail.com>
+Author: Arthur Zamarin <arthurzam@gmail.com>
+Author: Artur Termenji <atermenji@gmail.com>
+Author: 183614956 <v.manenkov@gmail.com>
+Author: weitsai <begining1003@gmail.com>
+Author: Parker <pyoung1998@gmail.com>
+Author: Perry Nguyen <pfnguyen@hanhuy.com>
+Author: David Arnarsson <davidarnarsson@gmail.com>
+Author: MeIsOlsson <henrikolsson@outlook.com>
+Author: Lee Reilly <lee@github.com>
+Author: Thor <thgautsson@gmail.com>
+Author: JavaCakess <delu401@gmail.com>
+Author: wbmrcb <rcbcrt@gmail.com>
+Author: Maxim Loguncov <loguncovmaxim@gmail.com>
+Author: Rodrigo Argumedo <rodrigo.argumedo@icloud.com>
+Author: Philipp Brüschweiler <blei42@gmail.com>
+Author: ozlem <ozlemkiziltug@gmail.com>
+Author: Amaury Esparza <amauryesparza@gmail.com>
+Author: anirudh-mehta <anirudh.mehta07@gmail.com>
+Author: Albireo <kappa7194@users.noreply.github.com>
+Author: Felipe Ruhland <felipe.ruhland@gmail.com>
+Author: Tomáš Valenta <cz840311@gmail.com>
+Author: Kevin Sawicki <kevin@github.com>
+Author: Ezra Brooks <ezra.m.brooks@gmail.com>
+Author: Alexander Skiba <skiba-alex@ya.ru>
+Author: liveasx <liveasx@live.com>
+Author: Francis Rath <francis@digitalcreations.no>
+Author: Pavlos-Petros Tournaris <p.tournaris@gmail.com>
+Author: cpasmoi <cpasmoi@users.noreply.github.com>
+Author: jzzhen <zhenzhen.jiang@gmail.com>
+Author: Evin Ugur <evinugur96@gmail.com>
+Author: Jonathan Maltz <maltz@yelp.com>
+Author: XhmikosR <xhmikosr@users.sourceforge.net>
+Author: Adrián Matejov <a.matejov@centrum.sk>
+Author: justinmuller <justin.muller@acm.org>
+Author: Unpublished <Unpublished@users.noreply.github.com>
+Author: Johannes Schleifenbaum <johannes@js-webcoding.de>
+Author: Mateusz Herych <heniek@applicake.com>
+Author: grivos <guy.griv@gmail.com>
+Author: Stephen Bennett <stephen.bennett@colorado.edu>
+Author: Jose M. Chumo Mata <jmchuma@gmail.com>
+Author: Garen Torikian <gjtorikian@gmail.com>
+Author: Robert Buonpastore <robert.buonpastore@gmail.com>
+Author: PetiPandaRou <julia@buchner.fr>
+Author: kmav <kmavroudakis@gmail.com>
+Author: Stephen Bennett <bennett18@gmail.com>
+Author: Krishnakumar Pooloth <krishnakumarp@gmail.com>
+Author: Ozan Deniz <denz.ozan@gmail.com>
+Author: Anup Cowkur <anupcowkur89@gmail.com>
+Author: Yuval Aboulafia <yuval.abou@gmail.com>
+Author: Vova Yatsyuk <vova.yatsyuk@gmail.com>
+Author: Rafael Alves <rafaeldobau@gmail.com>
+Author: Erkan <erkan2005@gmail.com>
+Author: Alexander Blom <me@alexanderblom.se>
+Author: Gyula Szalai <gyszalai@gmail.com>
+Author: Chiara De Liberato <chiara.deliberato@gmail.com>
+Author: Wang Xuerui <idontknw.wang@gmail.com>
+Author: Scoutman <sascha@mlakar.at>
+Author: Lubomir Vikev <lubomirvikev@abv.bg>
+Author: Ado Matejov <a.matejov@centrum.sk>
+Author: Trevor Basinger <trevor.basinger@gmail.com>
+Author: Robert Boloc <robertboloc@gmail.com>
+Author: Kaloyan Raev <kaloyan@raev.name>
+Author: phstudy <ph.study@gmail.com>
+Author: Augusto Bennemann <gutobenn@gmail.com>
+Author: Matt Graham <graham@github.com>
+Author: Gustavo Henrique Mascarenhas Machado <guhemama@gmail.com>
+Author: Chiara-De-Liberato <chiara.deliberato@gmail.com>
+Author: Michael Keppler <bananeweizen@gmx.de>
+Author: Gergely Polonkai (W00d5t0ck) <polesz@w00d5t0ck.info>
+Author: Semih Yağcıoğlu <semihyagcioglu[at]yahoo[dot]com>
+Author: Erkan Valentin <erkan2005@gmail.com>
+Author: Vladislav Rassokhin <vladrassokhin@gmail.com>
+Author: Hannes Landström <hannes.landstrom@gmail.com>
+Author: bazilio91 <bazilio91@gmail.com>
+Author: Richard Ricciardelli <ricciardelli2021@gmail.com>
+Author: Oleg Lebedyev <lebedyevoleg@gmail.com>
+Author: Bananeweizen <bananeweizen@gmx.de>
+Author: Caspar ZHANG <casparz@gmail.com>
+Author: dai <osada@gihyo.co.jp>
+Author: David <dave-world@hotmail.com>
+Author: Danylo Vashchilenko <dan.vashchilenko@gmail.com>
+Author: caspar <caspar@iCaspar.local>
+Author: oneill <emeric.pascual@gmail.com>
+Author: midGetyAn <vampelf@gmail.com>
+Author: Marc Plano-Lesay <marc.planolesay@gmail.com>
+Author: Jeff King <peff@peff.net>
+Author: Roberto Tyley <roberto@github.com>
+Author: Roberto Tyley <roberto@sing.(null)>
+Author: Roberto Tyley <roberto.tyley@gmail.com>

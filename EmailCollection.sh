@@ -21,7 +21,7 @@ git clone ${gitlinks}
 #example: take the third part
 #     0.      1.         2.        3.
 #https://github.com/nathanmarz/storm
-arr=(`echo ${gitlinks}| tr '/' `)
+arr=(`echo ${gitlinks}| tr '/' ' ' `)
 #arr[3] get the project folder name
 
 #complete path
@@ -34,7 +34,7 @@ cd ${appPath}
 
 #take a step back from the main project folder
 #${arr[3]} in order the save in the same name
-git log > ${arr[3]}_log.txt
+git log > ../${arr[3]}_log.txt
 
 #after each clone return to the main folder
 #in order to start the other clone
@@ -46,23 +46,23 @@ rm -rf ${appPath}
 
 #/////////////////////////////////////////
 cd $path
-#/
-#while read line
-#do
-#    if [[ "${line}" = "Author: "*  ]]; then
-#for not re-printing the same email
-#        if [[ $(grep "${line}"  "DeveloperEmails.txt" ) ]]; then
-#            echo " Already Saved... "
-#        else
-#            echo ${line} >>DeveloperEmails.txt
-#            echo " Saving..."
-#        fi
-#    fi
 
-#done < ${arr[3]}_log.txt
+while read line
+do
+    if [[ "${line}" = "Author: "*  ]]; then
+#for not re-printing the same email
+        if [[ $(grep "${line}"  "DeveloperEmails.txt" ) ]]; then
+            echo " Already Saved... "
+        else
+            echo ${line} >>DeveloperEmails.txt
+            echo " Saving..."
+        fi
+    fi
+
+done < ${arr[3]}_log.txt
 
 #remove file log and keep emails file
 
-#rm -rf ${arr[3]}_log.txt
+rm -rf ${arr[3]}_log.txt
 
 done < Links.txt
