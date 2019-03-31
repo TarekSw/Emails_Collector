@@ -19,7 +19,7 @@ Please leave an extra empty line after the last link
 
 
 #### And a file will be created containing all email addresses of people who comitted to the given repository in the Links.txt file.
-Code can be modified to save emails based on developer name
+Code can be modified to save emails based on developers name.
 
 ![Links File](img/devfile.png)
 
