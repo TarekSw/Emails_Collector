@@ -23,3 +23,6 @@ Code can be modified to save emails based on developers name. Not like in this c
 
 ![Links File](img/devfile.png)
 
+### Data will be saved in the following way 
+
+![Links File](img/devtxtlink.png)
