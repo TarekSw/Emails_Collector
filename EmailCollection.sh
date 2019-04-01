@@ -34,7 +34,7 @@ cd ${appPath}
 
 #take a step back from the main project folder
 #${arr[3]} in order the save in the same name
-git log > ../${arr[3]}_log.txt
+git log > ${arr[3]}_log.txt
 
 #after each clone return to the main folder
 #in order to start the other clone
