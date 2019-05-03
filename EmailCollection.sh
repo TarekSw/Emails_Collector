@@ -32,6 +32,7 @@ echo "App path ${appPath}"
 
 #//////////////////////////////////////////
 cd ${appPath%????}
+#cd ${appPath%????} remove the .git thing
 
 #take a step back from the main project folder
 #${arr[3]} in order the save in the same name
