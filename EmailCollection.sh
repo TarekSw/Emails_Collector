@@ -26,15 +26,16 @@ arr=(`echo ${gitlinks}| tr '/' ' ' `)
 
 #complete path
 appPath="${path}/${arr[3]}"
+#echo " Path is : ${appPath%????}"
 
 echo "App path ${appPath}"
 
 #//////////////////////////////////////////
-cd ${appPath}
+cd ${appPath%????}
 
 #take a step back from the main project folder
 #${arr[3]} in order the save in the same name
-git log > ${arr[3]}_log.txt
+git log > ../${arr[3]}_log.txt
 
 #after each clone return to the main folder
 #in order to start the other clone
@@ -42,7 +43,7 @@ git log > ${arr[3]}_log.txt
 
 #remove file recursively just need txt file
 
-rm -rf ${appPath}
+rm -rf ${appPath%????}
 
 #/////////////////////////////////////////
 cd $path
@@ -50,7 +51,7 @@ cd $path
 while read line
 do
     if [[ "${line}" = "Author: "*  ]]; then
-#for not re-printing the same email
+	#for not re-printing the same email
         if [[ $(grep "${line}"  "DeveloperEmails.txt" ) ]]; then
             echo " Already Saved... "
         else

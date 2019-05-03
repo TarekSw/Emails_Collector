@@ -1,0 +1,8 @@
+Author: Sindre Sorhus <sindresorhus@gmail.com>
+Author: Danny Guo <dguo@users.noreply.github.com>
+Author: Jeff Puckett <jeff@jeffpuckett.com>
+Author: Tyler Long <tyler4long@gmail.com>
+Author: Johan Euphrosine <proppy@google.com>
+Author: Benjamin Tan <demoneaux@gmail.com>
+Author: Bassel Cheaib <bassel.bc@gmail.com>
+Author: Bassel <bassel.bc@gmail.com>

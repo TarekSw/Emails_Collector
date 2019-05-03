@@ -1,2 +1,2 @@
-https://github.com/ReactiveX/RxCpp.git
-https://github.com/babel/babel.git
+https://github.com/sindresorhus/github-markdown-css.git
+https://github.com/basselch/online-resume.git
