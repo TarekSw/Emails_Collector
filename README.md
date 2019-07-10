@@ -9,7 +9,7 @@ Please leave an extra empty line after the last link
 
 #### Or add you own .txt file with correct links in the .sh File, in the specified line
 
-![Links File](ScreenShoots/fileLink.png)
+<img src="ScreenShoots/fileLink.png" height="100em" width="1000em"/>
 
 #### In Order to run the script, write : 
 
